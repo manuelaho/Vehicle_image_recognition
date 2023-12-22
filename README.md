@@ -15,6 +15,7 @@ PYTHON: Analyzing the data set to get a good overview
 
 MACHINE LEARNING: Pandas, numpy, matplotlib, seaborn, tensorflow/keras functional and sequential models (Deep Learning)
 
-Link for images(very small data set) to download --> https://www.kaggle.com/datasets/rishabkoul1/vechicle-dataset/data
+Link for images (very small data set) to download:
+--> https://www.kaggle.com/datasets/rishabkoul1/vechicle-dataset/data
 
 
